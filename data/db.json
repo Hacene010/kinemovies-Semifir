@@ -1,0 +1,103 @@
+{
+  "movies": [
+    {
+      "title": "Dune",
+      "director": "Denis Villeneuve",
+      "synopsis": "Adaptation en vedette du roman de science-fiction de Frank Herbert sur le fils d'une famille noble chargée de la protection du bien le plus précieux et de l'élément le plus vital de la galaxie.",
+      "duration": "155",
+      "distributer": "Netflix",
+      "attach": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "releaseDate": "22-10-2021",
+      "actors": "Timothée Chalamet, Rebecca Ferguson, Zendaya",
+      "id": 8
+    },
+    {
+      "title": "Clown",
+      "director": "Jon Watts",
+      "synopsis": "Un père aimant trouve un costume de clown pour la fête d'anniversaire de son fils, seulement pour se rendre compte qu'il est maudit.",
+      "duration": "100",
+      "distributer": "Netflix",
+      "attach": "https://m.media-amazon.com/images/M/MV5BYWNkYmIwY2QtNzljOC00Mzg0LTk1MjQtMGVmZTY4YmM1NzA0XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_SX300.jpg",
+      "releaseDate": "17-06-2016",
+      "actors": "Andy Powers, Laura Allen, Peter Stormare",
+      "id": 10
+    },
+    {
+      "title": "Driver",
+      "director": "Jack M.F. Skyyler, Alex Zinzopoulos",
+      "synopsis": "Un drame sombre se déroulant dans les rues de Las Vegas, à la suite d'un chauffeur / tueur en série souffrant de troubles de la personnalité multiple, et du détective voyou qui le traque.",
+      "duration": "79",
+      "distributer": "Amazon Prime",
+      "attach": "https://m.media-amazon.com/images/M/MV5BM2YwNjdkOWUtYmJiOC00MzkzLWIxZDMtYThmODYyYWVhMzQxXkEyXkFqcGdeQXVyNDMwNjU2MzM@._V1_SX300.jpg",
+      "releaseDate": "20-11-2018",
+      "actors": "Rick Lundgren, Stephen Medvidick, Lorenzo Lamas",
+      "id": 11
+    },
+    {
+      "title": "The Unforgivable",
+      "director": "Nora Fingscheidt",
+      "synopsis": "Une femme est libérée de prison après avoir purgé une peine pour un crime violent et réintègre une société qui refuse de pardonner son passé.",
+      "releaseDate": "2021-12-10",
+      "duration": "112",
+      "distributer": "Amazon Prime",
+      "attach": "https://m.media-amazon.com/images/M/MV5BM2M5MTJmOTEtNWU1Yy00NDNmLWI3MjMtNzFkN2FiZjE5Njg3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "actors": "Sandra Bullock, Viola Davis, Vincent D'Onofrio",
+      "id": 17
+    },
+    {
+      "title": "Reminiscence",
+      "director": "Lisa Joy",
+      "synopsis": "Nick Bannister, un détective privé de l'esprit, navigue dans le monde séduisant du passé lorsque sa vie est changée par la nouvelle cliente Mae. Un cas simple devient une obsession après sa disparition et il se bat pour apprendre la vérité.",
+      "releaseDate": "2021-08-20",
+      "duration": "116",
+      "distributer": "Netflix",
+      "attach": "https://m.media-amazon.com/images/M/MV5BODBkMTNmMmQtYTNlMy00OTRhLWE5MzgtYTZlMTUyYzY1MzkzXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+      "actors": "Hugh Jackman, Rebecca Ferguson, Thandiwe Newton",
+      "id": 18
+    },
+    {
+      "title": "Separation",
+      "director": "William Brent Bell",
+      "synopsis": "Une jeune fille trouve du réconfort auprès de son père artiste et du fantôme de sa mère décédée.",
+      "releaseDate": "2021-04-30",
+      "duration": "107",
+      "distributer": "Netflix",
+      "attach": "https://m.media-amazon.com/images/M/MV5BN2QxMjIxNDYtZGRiOS00MjdmLWI4YTItZDQ4YzI2ODFiODU3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+      "actors": "Rupert Friend, Violet McGraw, Madeline Brewer",
+      "id": 19
+    },
+    {
+      "title": "Wrath of Man",
+      "director": "Guy Ritchie",
+      "synopsis": "L'intrigue suit H, un personnage froid et mystérieux travaillant dans une entreprise de camions de trésorerie chargée de déplacer des centaines de millions de dollars autour de Los Angeles chaque semaine.",
+      "releaseDate": "2021-05-07",
+      "duration": "119",
+      "distributer": "Amzaon Prime",
+      "attach": "https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "actors": "Jason Statham, Holt McCallany, Josh Hartnett",
+      "id": 21
+    },
+    {
+      "title": "Finch",
+      "director": "Miguel Sapochnik",
+      "synopsis": "Sur une terre post-apocalyptique, un robot, construit pour protéger la vie du chien bien-aimé de son créateur, apprend la vie, l'amour, l'amitié et ce que signifie être humain.",
+      "releaseDate": "2021-11-05",
+      "duration": "115",
+      "distributer": "Netflix",
+      "attach": "https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "actors": "Tom Hanks, Caleb Landry Jones, Marie Wagenman",
+      "id": 22
+    },
+    {
+      "title": "Spider-Man 4: Fan Film",
+      "director": "Erik Franklin",
+      "synopsis": "Spider-Man revient pour relever son plus grand défi à ce jour alors qu'il affronte le vautour",
+      "releaseDate": "2021-12-01",
+      "duration": "115",
+      "distributer": "Amazon Prime",
+      "attach": "https://m.media-amazon.com/images/M/MV5BNTVhMWExZTEtNDgxYi00YmFhLTgwN2UtYjJiODM0YmMyYmU3XkEyXkFqcGdeQXVyODYyNTgyNjc@._V1_SX300.jpg",
+      "actors": "Leona Britt, Bryn Clayton Jones, Tommy Lee Driver",
+      "id": 23
+    }
+  ]
+}
