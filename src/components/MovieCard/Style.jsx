@@ -35,6 +35,8 @@ const SMovieCard = styled.article`
 
     img {
       border-radius: 7px;
+      width: 100%;
+      height: 100%;
     }
   }
 
