@@ -15,7 +15,8 @@ After cloning the repository, jump to the project directory:
 - Finally, to launch the app, run :
 #### `npm start`
 
-**NB:** you can use the omdb api `http://www.omdbapi.com/` to add movies by going to the *Examples*  section. 
+**NB_1:** you can use the omdb api `http://www.omdbapi.com/` to add movies by going to the *Examples*  section. 
+**NB_2:** When you launch the app make sure you have the LF config instead of the CRLF on your vsCode to prevent the error especially for windows OS.
 
 ### Creating movies
 You need to respect the same syntaxes as the placeholder, especially for the actors input (separate the actors names by a `,` to get a good result)
